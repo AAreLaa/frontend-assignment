@@ -36,5 +36,7 @@ Run following commands from the root directory of the project.
  npm install
  npm run dev
 ```
+## 🔗 Demo 
 
+https://frontend-assignment-aarelaa.vercel.app/
 
